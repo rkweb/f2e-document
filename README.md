@@ -28,15 +28,15 @@
 ```js
 20161010:[
 	{
-		"proName": "态度星际趴预热插画全景",
-		"frontEnd": "孔德建",
-		"backEnd": "",
-		"pm": "赵艺婷",
-		"onlineTime": "2016-10-14",
-		"area": "华北",
-		"platform": "wap端",
-		"link": "http://test.go.163.com/go/2016/1008/taidu/3d.html",
-		"content": "正在进行"
+		"proName": "态度星际趴预热插画全景", //项目名称
+		"frontEnd": "孔德建", //前端
+		"backEnd": "", //后端
+		"pm": "赵艺婷", //执行
+		"onlineTime": "2016-10-14", //上线时间
+		"area": "华北", //项目归属地(华北, 华东, 华南)
+		"platform": "wap端", //手机端, pc端
+		"link": "http://test.go.163.com/go/2016/1008/taidu/3d.html", //项目地址
+		"content": "正在进行" //完成, 正在进行
 	}
 ]
 ```
