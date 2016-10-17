@@ -3,7 +3,7 @@
 ## Get Started
 - 安装photoshop, 自己熟悉的编辑代码软件, TortoiseSVN  
 参考:  
-TortoiseSVN: https://tortoisesvn.net/downloads.zh.html
+TortoiseSVN: https://tortoisesvn.net/downloads.zh.html  
 sublime: https://www.sublimetext.com/3
 
 ## 关于svn  
