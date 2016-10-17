@@ -57,4 +57,13 @@ http://test.go.163.com/go/2015/public/common/wap_share.html
 http://test.go.163.com/go/2015/public/common/pc_share.html
 
 ### loading代码
-http://test.go.163.com/go/2015/public/common/loading.html
+http://test.go.163.com/go/2015/public/common/loading.html  
+
+## 常用工具
+### 生成雪碧图工具
+### 图片压缩工具
+
+## 常用库
+### swiper
+### 自定义scrollbar  
+http://manos.malihu.gr/jquery-custom-content-scroller/
