@@ -25,20 +25,18 @@
 ## 每周工作
 - 每周一早上10点之前提交给赵杰沫上周工作总结, 用ppt的形式, 每一页一个项目说明, 二维码尽量放大一些便于大家扫描, 链接做成可点击的形式, 具体参考ppt示例  
 - 每周二早上10点之前更新上周项目, 地址为http://test.go.163.com/go/2015/public/manage/index.html, 具体更新方法: 在svn://61.135.254.16/go/2015/public/manage/js/data/ 中有自己名字.js文件, 按照格式更新文件, 最后会自动显示在页面中. [注]:  
-`
-<script>
+```js
 20161010:[
-		{
-			"proName": "态度星际趴预热插画全景",
-			"frontEnd": "孔德建",
-			"backEnd": "",
-			"pm": "赵艺婷",
-			"onlineTime": "2016-10-14",
-			"area": "华北",
-			"platform": "wap端",
-			"link": "http://test.go.163.com/go/2016/1008/taidu/3d.html",
-			"content": "正在进行"
-		}
+	{
+		"proName": "态度星际趴预热插画全景",
+		"frontEnd": "孔德建",
+		"backEnd": "",
+		"pm": "赵艺婷",
+		"onlineTime": "2016-10-14",
+		"area": "华北",
+		"platform": "wap端",
+		"link": "http://test.go.163.com/go/2016/1008/taidu/3d.html",
+		"content": "正在进行"
+	}
 ]
-</script>
-`
+```
