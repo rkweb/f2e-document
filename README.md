@@ -1,6 +1,6 @@
 # f2e新手指引  
 欢迎来到f2e大家庭  
-## get started
+## Get Started
 - 安装photoshop, 自己熟悉的编辑代码软件, TortoiseSVN  
 
 ## 关于svn  
