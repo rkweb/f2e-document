@@ -1,8 +1,10 @@
 # f2e新手指引  
 欢迎来到f2e大家庭  
 ## get started
-- 安装photoshop, 自己熟悉的编辑代码软件, TortoiseSVN
+- 安装photoshop, 自己熟悉的编辑代码软件, TortoiseSVN  
+
 ## 关于svn  
+
 ### svn地址目录
 - svn://61.135.254.16/go/ (常规专题)  
 - svn://61.135.254.16/auto/ (汽车专题)
@@ -21,4 +23,20 @@
 - 生成的__汽车专题__正式链接地址为: http://s.auto.163.com/年份/日期/项目名称/  
 
 ## 每周工作
-- 每周一早上10点之前提交上周工作总结, 用ppt的形式, 每一页一个
+- 每周一早上10点之前提交给赵杰沫上周工作总结, 用ppt的形式, 每一页一个项目说明, 二维码尽量放大一些便于大家扫描, 链接做成可点击的形式, 具体参考ppt示例  
+- 每周二早上10点之前更新上周项目, 地址为http://test.go.163.com/go/2015/public/manage/index.html, 具体更新方法: 在svn://61.135.254.16/go/2015/public/manage/js/data/ 中有自己名字.js文件, 按照格式更新文件, 最后会自动显示在页面中. [注]:  
+<script>
+20161010:[
+		{
+			"proName": "态度星际趴预热插画全景",
+			"frontEnd": "孔德建",
+			"backEnd": "",
+			"pm": "赵艺婷",
+			"onlineTime": "2016-10-14",
+			"area": "华北",
+			"platform": "wap端",
+			"link": "http://test.go.163.com/go/2016/1008/taidu/3d.html",
+			"content": "正在进行"
+		}
+]
+</script>
