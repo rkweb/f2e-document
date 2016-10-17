@@ -65,5 +65,7 @@ http://test.go.163.com/go/2015/public/common/loading.html
 
 ## 常用库
 ### swiper
+http://idangero.us/swiper/#.WASBwuB96Hs  
+
 ### 自定义scrollbar  
 http://manos.malihu.gr/jquery-custom-content-scroller/
