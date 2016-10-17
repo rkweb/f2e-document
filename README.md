@@ -41,3 +41,17 @@
 	}
 ]
 ```
+
+## 常用代码
+
+### 监测代码
+http://test.go.163.com/go/2015/public/common/code_monitor.html  
+
+### 移动端分享代码
+http://test.go.163.com/go/2015/public/common/wap_share.html
+
+### pc端分享代码
+http://test.go.163.com/go/2015/public/common/pc_share.html
+
+### loading代码
+http://test.go.163.com/go/2015/public/common/loading.html
