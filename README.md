@@ -1,7 +1,7 @@
 # f2e新手指引  
 欢迎来到f2e大家庭  
 ## Get Started
-- 安装Adobe Photoshop CC 2015 及常用插件（安装包和插件向导师要）, 自己熟悉的编辑代码软件, TortoiseSVN  
+- 安装Adobe Photoshop CC 2015 及常用插件（安装包和插件可向导师索要）, 自己熟悉的编辑代码软件, TortoiseSVN  
 参考:  
 TortoiseSVN: https://tortoisesvn.net/downloads.zh.html  
 sublime: https://www.sublimetext.com/3
@@ -21,7 +21,9 @@ sublime: https://www.sublimetext.com/3
 - 在复制专题文件夹的时候不要把php文件一起复制过去  
 - 更加快速的同步到正式服务器的方法: 因为服务器会有缓存, 当修改完成后, 先提交svn, 再在html加版本号  
 - 生成的__常规专题__测试链接地址为: http://test.go.163.com/go/年份/日期/项目名称/  
+	*测试地址可以再这个网站中找到： http://test.go.163.com/go/2016/nomo.php
 - 生成的__汽车专题__测试链接地址为: http://test.go.163.com/auto/年份/日期/项目名称/
+	*测试地址可以再这个网站中找到： http://test.go.163.com/auto/2016/nomo.php
 - 生成的__常规专题__正式链接地址为: http://go.163.com/年份/日期/项目名称/  
 - 生成的__汽车专题__正式链接地址为: http://s.auto.163.com/年份/日期/项目名称/  
 
