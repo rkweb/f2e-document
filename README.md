@@ -66,8 +66,18 @@ http://test.go.163.com/go/2015/public/common/loading.html
 ### 图片压缩工具
 
 ## 常用库
+
+### zepto (已整合swiperup、touch等一些方法)
+http://go.163.com/2015/public/common/js/zepto.min.js
+
 ### swiper
 http://idangero.us/swiper/#.WASBwuB96Hs  
 
 ### 自定义scrollbar  
 http://manos.malihu.gr/jquery-custom-content-scroller/
+
+
+## 代码要求
+###PC端
+- 浏览器兼容到ie8及以上版本;
+###移动端
