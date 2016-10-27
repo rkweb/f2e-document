@@ -79,5 +79,6 @@ http://manos.malihu.gr/jquery-custom-content-scroller/
 
 ## 代码要求
 ###PC端
-- 浏览器兼容到ie8及以上版本;
-###移动端
+- 浏览器兼容到ie8及以上版本
+
+###Wap端
