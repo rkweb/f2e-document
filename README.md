@@ -82,3 +82,5 @@ http://manos.malihu.gr/jquery-custom-content-scroller/
 - 浏览器兼容到ie8及以上版本
 
 ###Wap端
+- 兼容网易新闻客户端、微信、浏览器
+:blush: 注意：网易客户端是不能横屏的，在做横屏项目时需要注意
