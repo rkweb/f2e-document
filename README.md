@@ -1,5 +1,5 @@
 # f2e新手指引  
-欢迎来到f2e大家庭  
+:blush:欢迎来到f2e大家庭  
 ## Get Started
 - 安装Adobe Photoshop CC 2015 及常用插件（安装包和插件可向导师索要）, 自己熟悉的编辑代码软件, TortoiseSVN  
 参考:  
@@ -83,4 +83,4 @@ http://manos.malihu.gr/jquery-custom-content-scroller/
 
 ###Wap端
 - 兼容网易新闻客户端、微信、浏览器
-:blush: 注意：网易客户端是不能横屏的，在做横屏项目时需要注意
+:small_red_triangle: 注意：网易客户端是不能横屏的，在做横屏项目时需要注意
