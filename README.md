@@ -9,7 +9,7 @@ sublime: https://www.sublimetext.com/3
 ## 关于svn  
 
 ### svn地址目录
-- svn://61.135.254.16/go/go (常规专题)  
+- svn://61.135.254.16/go/go/ (常规专题)  
 - svn://61.135.254.16/auto/ (汽车专题)
 
 ### 创建svn时的注意事项
