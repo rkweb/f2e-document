@@ -11,11 +11,11 @@ TortoiseSVN: https://tortoisesvn.net/downloads.zh.html
 sublime: https://www.sublimetext.com/3  
 
 - 关于Photoshop插件的安装（安装包和插件可向导师索要）：  
-①**拆分-V3.1.atn**  直接双击即可完成安装 用于在psd图中快速截取图片资源 默认快捷键为**F2**  
+①**拆分-V3.1.atn**  直接双击即可完成安装; 用于在psd图中快速截取图片资源 (默认快捷键为**F2**)  
 ②**TinyPNG 插件**   进入 TinyPNG插件 文件夹，打开 Readme.txt 文档，根据里面的操作流程进行操作  
 注意：  
 在 Readme.txt 文档中第一步操作中，首先需要修改 1.Registry Entry 目录下的 **PhothoshopCC.reg** 配置文件，将里面默认的Photoshop的路径地址都改为你的安装地址，然后保存文件后双击该文件即可完成第一步操作!下图中红框内是需要修改的地方  
-<img src="http://test.go.163.com/go/2017/0101/f2eGuide/Tiny.png" style="width:500">  
+<img src="http://test.go.163.com/go/2017/0101/f2eGuide/Tiny.png" style="width:400">  
 
 
 ## 关于svn的使用  
@@ -26,8 +26,8 @@ sublime: https://www.sublimetext.com/3
 - 注意：  
 ①svn的账号是由后台的**张立**为您开通。打开网易popo找到机器人，在网易小泡助手里输入张立后将其添加为您的好友，请他来帮您开通svn账号  
 ②找到一个空的本地磁盘，创建名为**auto** 和 **go**这两个文件夹；单击右键通过svn地址目录**Checkout(检出)**项目专题  
-下图为检出go（常规类专题）目录下的2017年的项目专题;auto(汽车类专题)同理  
-<img src="http://test.go.163.com/go/2017/0101/f2eGuide/checked.png" style="width:500">
+下图为检出go（常规类专题）目录下的2017年的项目专题；auto(汽车类专题)同理  
+<img src="http://test.go.163.com/go/2017/0101/f2eGuide/checked.png" style="width:400">
 
 ### 创建svn时的注意事项
 1. 创建项目链接地址时, 按照 **专题类型/年份/上线日期/项目名称** 去创建
@@ -38,7 +38,9 @@ sublime: https://www.sublimetext.com/3
 ③链接后缀有无特殊要求, 没有再创建, 一般手机端页面后缀写上"-wap"  
 ④项目是否涉及到后台功能, 是的话让执行（PM）直接找后台沟通  
 例如：  
-svn://61.135.254.16（存放检出项目的本地磁盘）/auto/2017/0105/jade-spirior/  当创建完成后, 把jade-spirior文件夹提交到svn上
+svn://61.135.254.16（存放检出项目的本地磁盘）/auto/2017/0105/jade-spirior/  当创建完成后, 把jade-spirior文件夹提交到svn上  
+注意：每次提交或更新项目时，要先右键——>**SVN Update** 后再进行 **SVN Commit**操作 
+<img src="http://test.go.163.com/go/2017/0101/f2eGuide/auto.png" style="width:400">
 
 3. 然后根据所创建的项目文件夹给执行（PM）专题的测试链接和正式链接地址  
 例如：  
