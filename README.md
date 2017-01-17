@@ -14,7 +14,7 @@ sublime: https://www.sublimetext.com/3
 ①**拆分-V3.1.atn**  直接双击即可完成安装 用于在psd图中快速截取图片资源 默认快捷键为**F2**  
 ②**TinyPNG 插件**   进入 TinyPNG插件 文件夹，打开 Readme.txt 文档，根据里面的操作流程进行操作  
 注意：  
-在 Readme.txt 文档中第一步操作中，首先需要修改 1.Registry Entry 目录下的 **PhothoshopCC.reg** 配置文件，将里面默认的Photoshop的路径地址都改为你的安装地址，然后保存文件后双击该文件即可完成第一步操作!下图中红框内是需要修改的地方
+在 Readme.txt 文档中第一步操作中，首先需要修改 1.Registry Entry 目录下的 **PhothoshopCC.reg** 配置文件，将里面默认的Photoshop的路径地址都改为你的安装地址，然后保存文件后双击该文件即可完成第一步操作!下图中红框内是需要修改的地方  
 <img src="http://test.go.163.com/go/2017/0101/f2eGuide/Tiny.png" style="width:500">  
 
 
