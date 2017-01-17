@@ -30,7 +30,7 @@ popo:http://popo.163.com/
       汽车专题的正式链接地址为: http://s.auto.163.com/2017/0105/jade-spirior/ 
 
 - 生成的__常规专题__测试链接地址为: http://test.go.163.com/go/年份/日期/项目名称/  
-  #  常规专题测试地址可以再这个网站中找到： http://test.go.163.com/go/2016/nomo.php
+  # 常规专题测试地址可以再这个网站中找到： http://test.go.163.com/go/2016/nomo.php
 - 生成的__汽车专题__测试链接地址为: http://test.go.163.com/auto/年份/日期/项目名称/           
   # 汽车专题测试地址可以再这个网站中找到： http://test.go.163.com/auto/2016/nomo.php
 - 生成的__常规专题__正式链接地址为: http://go.163.com/年份/日期/项目名称/  
