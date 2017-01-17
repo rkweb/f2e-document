@@ -1,4 +1,5 @@
 # f2e新手指引  
+
 欢迎你来到f2e的大家庭，请详细阅读以下内容以便快速高效的展开工作:bowtie:
 
 ## Get Started
@@ -7,7 +8,6 @@
 TortoiseSVN: https://tortoisesvn.net/downloads.zh.html  
 sublime: https://www.sublimetext.com/3  
 popo:http://popo.163.com/
-
 
 ## 关于svn的使用  
 
