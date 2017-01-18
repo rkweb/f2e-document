@@ -130,7 +130,10 @@ http://go.163.com/2015/public/common/js/zepto.min.js
 http://idangero.us/swiper/#.WASBwuB96Hs  
 
 ### 自定义scrollbar  
-http://manos.malihu.gr/jquery-custom-content-scroller/
+http://manos.malihu.gr/jquery-custom-content-scroller/  
+
+### 移动端页面常用功能  
+http://go.163.com/2015/public/common/js/common.js
 
 
 ## 代码要求
